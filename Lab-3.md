@@ -24,7 +24,7 @@ Lab 1 will be somewhat different since this is an introduction to the equipment.
 1x Solderless Breadboard
 # Assembly Procedures
 **Part 1-LED Driving Circuits**
-1. Connect the 270Ω, LED, and switch in series on a solderless breadboard
+1. Connect the 270Ω resistor, LED, and switch in series on a solderless breadboard
 2. Connect the positive terminal of the DC Power supply before the 270Ω resistor and the negative terminal after the switch
 
 **Image of Part 1 Circuit**
