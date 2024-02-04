@@ -1,11 +1,11 @@
-Welcome to the BAE305-SP24-Lab3 wiki!
+Welcome to the BAE305 SP24 Lab3 wiki!
 
 # Lab 3 – Let’s Switch: Transistors as Switches 
 
 # By: Noah Lane and Lily Schlaug
 # Summary
-Lab goal; summary of work performed; summary of outcome
-Lab 1 will be somewhat different since this is an introduction to the equipment.
+The goal of this lab was to introduce diodes and transistors into a circuit. We began by building a circuit with a switch and measured a variety of elements within the circuit with the DMM. Then, the circuit was rebuilt to include a bipolar junction transistor to illustrate how this element also acts as a switch. Voltages at several test points were taken and compared to the previous circuit to show how the LED driven by a transistor arrangement operated. Diodes and LEDs were also used throughout the duration of the lab to allow a visual indication of when current was flowing. Then, a circuit was built to control the LED using a potentiometer. The voltages at a variety of points were measured when the LED was bright, dim, and at two midpoints. Finally, a circuit was built to include a motor from our SparkFun Inventor's kit. At the motor driving circuit portion of the lab, time ran out and we were not able to measure any values in the circuit. 
+
 # Materials
 2.2Ω, 270Ω, 1kΩ Resistors
 
@@ -54,17 +54,17 @@ Lab 1 will be somewhat different since this is an introduction to the equipment.
 **Image of Part 2 Circuit**
 ![IMG_8432](https://github.com/npla225/BAE305-SP24-Lab3/assets/156371043/b2bb34a6-ac43-4cae-9638-0c84f1267150)
 
-
-
-
 # Test Equipment
 Global Specialties 1403 DC Power Supply
 
 Fluke 87 Digital Multi-meter
+
 # Test Procedures
 How did you test the system to get your results
+
 # Test Results
 What are your results?
+
 # Discussion
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
 # Conclusion
