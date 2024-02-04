@@ -66,7 +66,9 @@ Then, the LED driving circuit was built. Voltage was measured at T1, T2, T3, T4 
  
 Next, the LED driven by a transistor with a fixed current was built. Voltage was measured at T1, T2, T3, T4, T5, T6, & T7 with respect to ground. Voltage across R1, LED1, S1, & R2 should be measured by putting the DMM in parallel with the element of the circuit at the point of interest. Values at each of these points were meant to be taken with the switch both closed and open. Current was meant to be measured with the switch both on and off through LED1 & R2. This should be done by placing the DMM in series with the LED. See table 3 for the measurements from this portion of the lab.
 
+Next, a circuit was built that controlled the LED using a transistor. Measurements were taken at the most dim LED, most bright LED, and two midpoints. The same procedure was followed to take the measurements as described above. The values are below in table 4. 
 
+Finally, the motor driving circuit was built. At this point in the lab, we ran out of time and were not able to obtain any voltage readings in the circuit. 
 
 # Test Results
 The table of actual values of resistors for this lab are shown below in table 1.
@@ -85,6 +87,13 @@ Note: For this portion of the lab, we did not have enough time to complete all t
 
 ![image](https://github.com/npla225/BAE305-SP24-Lab3/assets/156371115/aefbb6e6-93a8-42f1-868a-88258c633d7e)
 
+Controlling LED using a transistor: 
+
+Note: Ran out of time to do third voltage midpoint. 
+
+![image](https://github.com/npla225/BAE305-SP24-Lab3/assets/156371115/bc3cc878-7f3c-4ecd-a32d-6d3416a3677f)
+
+
 # Discussion
 Discussion Question 1: How does the current through the LED compare between circuits 1 and 2?
 
@@ -95,3 +104,5 @@ Discussion Question 2: The datasheet mentions a maximum voltage drop (VCE) of 1.
 The Vce measured was 0.024 V, so it is much lower than the 1.2 V that is reported in the datasheet. This means that we are not in the saturation region because the transistor is not working at or near its maximum potential. 
 
 # Conclusion
+
+To conclude, this lab used diodes, transistors and potentiometers to analyze how they impact the voltage and current at different points within a circuit. The first circuit simply involved a switch that allowed current to flow through an LED when closed. The second circuit incorporated a transistor and a switch to show how we are able to compare transistors to operating like switches in circuit arrangements. We were also able to analyze the gain for the current in the transistor. In the third circuit a transistor was used to control the brightness of the LED. A series of points were measured to see how voltage changes in elements at different points. Finally, a circuit was built to power a motor. 
