@@ -85,11 +85,13 @@ Note: For this portion of the lab, we did not have enough time to complete all t
 
 ![image](https://github.com/npla225/BAE305-SP24-Lab3/assets/156371115/aefbb6e6-93a8-42f1-868a-88258c633d7e)
 
-
-What are your results?
-
 # Discussion
 Discussion Question 1: How does the current through the LED compare between circuits 1 and 2?
+
+The current through the LED between circuits 1 and 2 are the same. 
+
 Discussion Question 2: The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region?
-Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
+
+The Vce measured was 0.024 V, so it is much lower than the 1.2 V that is reported in the datasheet. This means that we are not in the saturation region because the transistor is not working at or near its maximum potential. 
+
 # Conclusion
